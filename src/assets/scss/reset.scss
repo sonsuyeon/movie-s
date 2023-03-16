@@ -1,0 +1,28 @@
+body,
+html {
+  font-family: "Roboto", sans-serif;
+}
+body {
+  // font-family: "NotoSansKR Regular", sans-serif;
+  // font-size: 10px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+li {
+  list-style: none;
+}
+
+a {
+  color: #292929;
+  text-decoration: none;
+}
+img {
+  vertical-align: middle;
+}
